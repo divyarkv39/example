@@ -3,7 +3,9 @@ package tests;
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		int a=52;
+		int b=98;
+		System.out.println(a+b);
 
 	}
 
